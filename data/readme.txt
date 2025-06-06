@@ -1,0 +1,3 @@
+•	LT kalbai LtHate (4995 komentarai, taikino klasė 24.40%) – prie pirminio parengto neapykantos (pagrinde etniškumo pagrindu) tekstyno varianto buvo prijungtas pirminis „Semantika 2”, kurį sudarė 1458 (52.47% neapykantos kalba) lietuviškų socialinių medijų ir portalų komentarai, pasidalinti http://hatespeech.vdu.lt kūrėjo Mindaugo Petkevičiaus;
+•	RU kalbai RuToxic (163187 komentarai, taikinio klasė 19.25%) – Dementieva et al., 2021 – https://doi.org/10.3390/mti5090054
+•	EN kalbai DynaHate (41144 komentarai, taikinio klasė 53.90%) – Vidgen et al., 2021 – https://doi.org/10.18653/v1/2021.acl-long.132
