@@ -11,6 +11,7 @@ git clone https://github.com/evavaic/KTU-Misijos-HIPSTer.git
 
 # Unzip the dataset inside the data directory
 unzip KTU-Misijos-HIPSTer/data/RuToxic.zip -d KTU-Misijos-HIPSTer/data/
+```
 
 # 🧹 How to clean up everything
 
@@ -18,4 +19,4 @@ To safely delete the cloned repository and all its contents:
 
 ```bash
 rm -rf KTU-Misijos-HIPSTer
-
+```
